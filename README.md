@@ -1,2 +1,0 @@
-# PostsApp
-Created with CodeSandbox
